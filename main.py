@@ -10,4 +10,3 @@ if __name__=='__main__':
     imagen.ColorizeRGB('Red') #Hace llamado a la función ColorizeRGB de la clase ColorImage y se introduce la opción Red.
     imagen.MakeHue() #Hace llamado a la función MakeHue de la clase ColorImage.
 
-#C:/Users/ASUS-PC/Desktop/lena.png
